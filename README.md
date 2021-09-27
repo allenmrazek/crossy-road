@@ -1,3 +1,8 @@
+![Crossy Road](./screenshots/screenshot1.png)
+![Example 1](./screenshots/example1.gif)
+![Example 2](./screenshots/example2.gif)
+![Example 3](./screenshots/example3.gif)
+
 # 386-crossy-road
 
 Crossy Road
